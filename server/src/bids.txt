@@ -1,0 +1,12 @@
+{"auctionId":"0","bidAmount":"2.50","bidderId":0,"id":1}
+{"auctionId":"0","bidAmount":"3.50","bidderId":0,"id":2}
+{"auctionId":"1","bidAmount":"1.50","bidderId":5,"id":3}
+{"auctionId":"0","bidAmount":"5.00","bidderId":6,"id":4}
+{"auctionId":"3","bidAmount":"5.55","bidderId":0,"id":5}
+{"auctionId":"0","bidAmount":"9.00","bidderId":0,"id":6}
+{"auctionId":"3","bidAmount":"5.00","bidderId":0,"id":7}
+{"auctionId":"0","bidAmount":"1.00","bidderId":0,"id":8}
+{"auctionId":"1","bidAmount":"77.77","bidderId":0,"id":9}
+{"auctionId":"0","bidAmount":"77.77","bidderId":0,"id":10}
+{"auctionId":"3","bidAmount":"6.66","bidderId":0,"id":11}
+{"auctionId":"3","bidAmount":"7.77","bidderId":0,"id":12}

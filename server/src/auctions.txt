@@ -1,0 +1,12 @@
+{"sellerId":4,"firstBid":"5.00","name":"LCDTV","id":1,"status":"available"}
+{"sellerId":4,"firstBid":"32.8","name":"that","id":2,"status":"available"}
+{"sellerId":3,"firstBid":"1.00","name":"changed","id":3,"status":"available"}
+{"sellerId":0,"firstBid":"420.69","name":"howdy","id":5,"status":"available"}
+{"sellerId":2,"firstBid":"5.5","name":"check","id":6,"status":"available"}
+{"sellerId":0,"firstBid":"132.00","name":"random","id":9,"status":"available"}
+{"sellerId":0,"firstBid":"12.00","name":"randomthis","id":10,"status":"available"}
+{"sellerId":0,"firstBid":"5","name":"random","id":11,"status":"available"}
+{"sellerId":0,"firstBid":"1.00","name":"a","id":12,"status":"available"}
+{"sellerId":0,"firstBid":"1.00","name":"a","id":13,"status":"available"}
+{"sellerId":0,"firstBid":"11.00","name":"y","id":14,"status":"available"}
+{"sellerId":0,"firstBid":"1.00","name":"idk","id":15,"status":"available"}

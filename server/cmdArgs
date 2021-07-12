@@ -1,0 +1,17 @@
+javac *.java -cp json-20190722.jar:jedis-3.1.0.jar:jgroups-3.6.14.Final.jar
+
+java -cp json-20190722.jar:jedis-3.1.0.jar:jgroups-3.6.14.Final.jar:. Server
+
+curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:8080/test
+
+curl --data "{\"username\" : \"Bobster\", \"password\" : \"123\" }" http://localhost:8081/api/user/login
+
+docker image ls
+
+docker image build . -t server
+
+docker-compose up
+
+docker container run -p 8080:8080 server
+
+docker kill $(docker ps -aq)

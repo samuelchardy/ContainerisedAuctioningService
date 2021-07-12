@@ -1,0 +1,3 @@
+javac *.java -cp jedis-3.1.0.jar:json-20190722.jar:okhttp-4.2.2.jar:okio-2.0.0.jar:kotlin-stdlib-common-1.3.50.jar:kotlin-stdlib-1.3.50.jar
+
+java -cp .:jedis-3.1.0.jar:json-20190722.jar:okhttp-4.2.2.jar:okio-2.0.0.jar:kotlin-stdlib-common-1.3.50.jar:kotlin-stdlib-1.3.50.jar LoadBalancer
